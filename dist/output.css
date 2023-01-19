@@ -698,10 +698,6 @@ video {
   max-width: 120px;
 }
 
-.max-w-\[12px\] {
-  max-width: 12px;
-}
-
 .origin-top-left {
   transform-origin: top left;
 }
@@ -767,10 +763,6 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.rounded {
-  border-radius: 0.25rem;
 }
 
 .border {
@@ -1207,10 +1199,6 @@ body {
 
   .xl\:w-10\/12 {
     width: 83.333333%;
-  }
-
-  .xl\:w-1 {
-    width: 0.25rem;
   }
 
   .xl\:w-1\/3 {
