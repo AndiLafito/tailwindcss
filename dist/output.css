@@ -698,6 +698,10 @@ video {
   max-width: 120px;
 }
 
+.max-w-\[12px\] {
+  max-width: 12px;
+}
+
 .origin-top-left {
   transform-origin: top left;
 }
